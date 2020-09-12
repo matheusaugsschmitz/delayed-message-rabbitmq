@@ -76,7 +76,6 @@ Dead Letter Queue
 - Auto delete: No
 - Arguments: 
     - x-queue-mode: lazy
-    - x-message-ttl: 3600000
 
 ### **Bindings**
 Delayed Message Binding
