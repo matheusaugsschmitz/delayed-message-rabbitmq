@@ -3,7 +3,7 @@ Project created to provide a plug'n'play RabbitMQ image with the management GUI 
 
 # How to use this image
 ## Using Docker Hub
-[Docker Hub project](https://hub.docker.com/repository/docker/matheusaugusto/rabbitmq-delayed-message)
+[Docker Hub project](https://hub.docker.com/r/matheusaugusto/rabbitmq-delayed-message)
 
 ```
 $ docker run -d --name rabbitmq -p 15672:15672 -p 5672:5672  matheusaugusto/rabbitmq-delayed-message:3.8.0
